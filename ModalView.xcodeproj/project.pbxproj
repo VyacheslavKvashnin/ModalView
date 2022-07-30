@@ -11,6 +11,7 @@
 		BDCB576E28958042003E0377 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCB576D28958042003E0377 /* ViewController.swift */; };
 		BDCB577328958043003E0377 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDCB577228958043003E0377 /* Assets.xcassets */; };
 		BDCB577628958043003E0377 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDCB577428958043003E0377 /* LaunchScreen.storyboard */; };
+		BDCB577E28958FA7003E0377 /* PresentationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCB577D28958FA7003E0377 /* PresentationController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		BDCB577228958043003E0377 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDCB577528958043003E0377 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDCB577728958043003E0377 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDCB577D28958FA7003E0377 /* PresentationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentationController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				BDCB576928958042003E0377 /* AppDelegate.swift */,
 				BDCB576D28958042003E0377 /* ViewController.swift */,
+				BDCB577D28958FA7003E0377 /* PresentationController.swift */,
 				BDCB577228958043003E0377 /* Assets.xcassets */,
 				BDCB577428958043003E0377 /* LaunchScreen.storyboard */,
 				BDCB577728958043003E0377 /* Info.plist */,
@@ -133,6 +136,7 @@
 			files = (
 				BDCB576E28958042003E0377 /* ViewController.swift in Sources */,
 				BDCB576A28958042003E0377 /* AppDelegate.swift in Sources */,
+				BDCB577E28958FA7003E0377 /* PresentationController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
